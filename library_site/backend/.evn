@@ -1,0 +1,9 @@
+SECRET_KEY = 'django-insecure-!#xx#q%hd1_^4sskn8)0!9vlgb+9qz*i7#4#gg3)yngek)(ics'
+
+
+
+SUPERUSER_CREDENTIALS = {
+    "username": "admin",
+    "email": "admin@example.com",
+    "password": "your_secure_password"
+}
